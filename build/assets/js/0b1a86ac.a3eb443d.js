@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksymmetrical_lamp=self.webpackChunksymmetrical_lamp||[]).push([[5905],{7035:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/symmetrical-lamp/blog/tags/hola","allTagsPath":"/symmetrical-lamp/blog/tags","count":1}')}}]);
